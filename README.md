@@ -2,7 +2,9 @@
 
 This lib will have some file interactions
 
-Build status of the latest master branch
-https://travis-ci.org/jayyyin/python-filelib-thingy.svg?branch=master
+Build status of the latest master branch:
+![Status](https://travis-ci.org/jayyyin/python-filelib-thingy.svg?branch=master)
 
-This library takes a file 
+This library takes a directory/file and is capable of the following
+* If you enter the full path of a file (including the file) it'll give you the filename and extention
+* If you enter the full path of a file it can output the filesize in bytes
